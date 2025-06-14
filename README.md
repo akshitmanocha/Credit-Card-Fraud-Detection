@@ -1,12 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+# Credit Card Behaviour Score Prediction Using Classification and Risk-Based Techniques
 
-# make the pdf a bit short and remove any references
-
-Below is a shortened version of your credit card default prediction report, structured for clarity and brevity, with all references and citations removed. This summary can be directly exported to PDF.
-
----
-
-# Credit Card Default Prediction: Shortened Report
 
 ## Overview and Modeling Strategy
 
@@ -80,10 +73,3 @@ The project aimed to predict credit card defaults using machine learning. The pr
 - **XGBoost outperformed other models, especially in recall and F2 score.**
 - **Threshold tuning is critical for business alignment.**
 - **The model is production-ready and supports robust, automated credit risk assessment.**
-
----
-
-This summary is ready for export as a concise PDF report[^1].
-
-<div style="text-align: center">⁂</div>
-
