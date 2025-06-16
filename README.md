@@ -16,6 +16,7 @@ The project aimed to predict credit card defaults using machine learning. The pr
 - **Payment History:** Delayed and consecutive late payments were strong predictors of default.
 - **Credit Utilization:** High and increasing credit utilization ratios correlated with higher default risk.
 - **Financial Stress:** Features combining severe delays, increasing bills, and decreasing payments were highly predictive.
+- **Data Distribution:** Several features showed significant skewness, necessitating log transformation to improve model performance.
 - **Visualizations:** KDE plots and correlation bar charts showed the impact of engineered features and their relationships with default status.
 
 
